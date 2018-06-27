@@ -1,0 +1,22 @@
+## RubyMine
+- start test
+  command + shift + r start 
+  P.S: command line: ruby -I some_test
+- break point + debug mode
+  command + shift + d: debug
+  can also evaluate expressions
+  - right click a break point to set conditions(e.g. break if satifies some condition)
+- search
+  command + shift
+- Fuzzy search
+  command + shift + T: sysmbol-search
+  command + T: file-name-search
+  
+- Go To definition: command + click
+- VCS features
+- Control + option + T (or navigate/test): go to test file
+- Refactor
+  e.g. rename
+- Command shift E: jump to recently added files
+- control g: highlight occurrences ? seems incorrect
+- ctrl w: 
